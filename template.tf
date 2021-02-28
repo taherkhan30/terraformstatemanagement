@@ -13,8 +13,8 @@ centralized managemtn
 
 provider "aws" {
   region     = "us-west-2"
-  access_key = "AKIAXZ5XWYVXUNBHMAHI"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 resource "aws_instance" "my_ec2" {
